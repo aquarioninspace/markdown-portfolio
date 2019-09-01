@@ -1,3 +1,1 @@
-This is github
-([GitHub](http://github.com))
-[Yahoo](yahoo.com)
+[Yahoo](https://yahoo.com).
